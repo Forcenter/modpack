@@ -1,0 +1,36 @@
+{
+  "clientToken": "73da897a-1d13-45be-89e0-f2a03a6a7592",
+  "accounts": {
+    "9941fdcde58e11eca78bf02f74958c02": {
+      "username": "Forcenter",
+      "userID": "Forcenter",
+      "displayName": "Forcenter",
+      "accessToken": "77661d8c-45a9-4bfd-ac98-ff0d2ddf4488",
+      "uuid": "9941fdcd-e58e-11ec-a78b-f02f74958c02",
+      "type": "tlauncher",
+      "skinType": "tlauncher",
+      "premiumAccount": false,
+      "profiles": [
+        {
+          "id": "9941fdcd-e58e-11ec-a78b-f02f74958c02",
+          "name": "Forcenter"
+        }
+      ],
+      "selectedProfile": {
+        "id": "9941fdcd-e58e-11ec-a78b-f02f74958c02",
+        "name": "Forcenter"
+      }
+    },
+    "8d7ffd783942485b8a143ba09bd8f8d8": {
+      "username": "Forcenter",
+      "userID": "Forcenter",
+      "displayName": "Forcenter",
+      "uuid": "8d7ffd783942485b8a143ba09bd8f8d8",
+      "type": "free",
+      "skinType": "tlauncher",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "8d7ffd783942485b8a143ba09bd8f8d8",
+  "freeAccountUUID": "8d7ffd783942485b8a143ba09bd8f8d8"
+}
