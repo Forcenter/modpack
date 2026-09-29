@@ -30,6 +30,7 @@
 - [x] [Tetrawear](https://www.curseforge.com/minecraft/mc-mods/tetrawear)
 - [x] [Tetra Loopback?](https://www.curseforge.com/minecraft/mc-mods/tetra-loopback)
 - [ ] [Tetra's Delight](https://www.curseforge.com/minecraft/mc-mods/tetras-delight)
+- [ ] [Equipment compare](https://modrinth.com/mod/equipment-compare)
 
 #### Trinkets
 - [x] [Curious API](https://www.curseforge.com/minecraft/mc-mods/curios)
@@ -73,11 +74,18 @@
 - [ ] [Soulslike bosses](https://modrinth.com/mod/bossesrise)
 - [x] [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)
 - [ ] [Legendary monsters](https://modrinth.com/mod/legendary-monsters)
+- [ ] [Mobs of Mythology](https://modrinth.com/mod/mobs-of-mythology)
 
 ## Aesthetics
 - [ ] [Curious Lanterns](https://www.curseforge.com/minecraft/mc-mods/curious-lanterns)
 - [ ] [Traveler's titles](https://modrinth.com/mod/travelers-titles)
 - [ ] [Immersive melodies](https://modrinth.com/mod/immersive-melodies)
 - [x] [Coolrain](https://www.curseforge.com/minecraft/mc-mods/cool-rain)
-- [x] [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 - [x] [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
+
+## Technical mods
+- [x] [Embeddium](https://modrinth.com/mod/embeddium)
+- [x] [Distant Horizons](https://modrinth.com/mod/distanthorizons)
+- [x] [Rubidium](https://modrinth.com/mod/rubidium-extra)
+- [x] [Oculus](https://modrinth.com/mod/oculus)
+- [x] [JEI](https://modrinth.com/mod/jei)
