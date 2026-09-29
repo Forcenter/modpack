@@ -13,4 +13,5 @@ libraries
 defaultconfigs
 crash-reports
 cache
-TLauncherProfiles.json
+TlauncherProfiles.json
+mods/tl_skin_cape_forge_1.20-1.38.jar
