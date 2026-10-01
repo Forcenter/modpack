@@ -1,5 +1,20 @@
 # Modpack
 
+## Main idea
+This worldpack focuses mainly on exploration and incentivises no unneccessary base building by:
+- Disabling craft and drop of all crafting tables, furnaces, chests, etc
+- Slowing down mining of blocks
+- Limiting space of storing items with your inventory and a backpack
+- And much more
+
+## Gameplay loop
+
+Most of the fun is spread in-between the structures.
+You will start as an adventurer that visits villages and steadily upgrades his gear by stuff found in travel
+All the upgrades are integrated from mods into Tetra modules so in order to craft you perfect weapon you should traverse a hella lot of places.
+As you cant do a lot of mining main source of jewelry and other precious stuff is ravaging some outposts (and hopefully no villages)
+
+# Mods
 ## Worldgen
 - [x] [Nature's Spirit](https://www.curseforge.com/minecraft/mc-mods/natures-spirit)
 - [x] [Streams Reflowing](https://www.curseforge.com/minecraft/mc-mods/streams-reflowing)
@@ -40,9 +55,6 @@
 #### Magic?
 - [ ] [Irons spells](https://modrinth.com/mod/irons-spells-n-spellbooks)
 
-#### Tools
-- [ ] [Antique atlas](https://modrinth.com/mod/antique-atlas-4)
-
 #### Potions
 - [ ] [Ars elixirum](https://modrinth.com/mod/ars-elixirum)
 
@@ -52,12 +64,11 @@
 - [ ] [Two players one horse](https://modrinth.com/mod/two-players-one-horse)
 
 ### Combat
-- [ ] [Better combat](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)
-- [ ] [Tetratic combat](https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded)
-- [ ] [Cut through](https://modrinth.com/mod/cut-through)
+- [x] [Better combat](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)
+- [x] [Tetratic combat](https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded)
 - [ ] [Hardcore revival](https://modrinth.com/mod/hardcore-revival)
 
-### Travelling challenges
+### Travelling challenges [TRVL]
 - [x] [Scout Recrafted](https://www.curseforge.com/minecraft/mc-mods/scout-recrafted)
 - [x] [Vanilla Backport](https://modrinth.com/mod/vanillabackport)
 - [ ] [End Remastered](https://modrinth.com/mod/endrem)
@@ -89,3 +100,5 @@
 - [x] [Rubidium](https://modrinth.com/mod/rubidium-extra)
 - [x] [Oculus](https://modrinth.com/mod/oculus)
 - [x] [JEI](https://modrinth.com/mod/jei)
+- [x] [KubeJS](https://modrinth.com/mod/kubejs)
+- [x] [LootJS](https://modrinth.com/mod/lootjs)

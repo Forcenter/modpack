@@ -1,0 +1,26 @@
+{
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "files.exclude": {
+        "assets/": true,
+        "cache/": true,
+        "cosmetics/": true,
+        "defaultconfigs/": true,
+        "libraries/": true,
+        "local/": true,
+        "resourcepacks/": true,
+        "runtime/": true,
+        "saves/": true,
+        "screenshots/": true,
+        "server-resource-packs/": true,
+        "shaderpacks/": true,
+        "versions/": true,
+        "launcher_profiles.json": true,
+        "rhino.local.properties": true,
+        "servers.dat": true,
+        "TlauncherProfiles.json": true,
+        "usercache.json": true,
+        "usernamecache.json": true,
+        "worlds-1.2.json": true,
+    }
+}
