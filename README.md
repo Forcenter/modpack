@@ -46,6 +46,7 @@ As you cant do a lot of mining main source of jewelry and other precious stuff i
 - [x] [Tetra Loopback?](https://www.curseforge.com/minecraft/mc-mods/tetra-loopback)
 - [ ] [Tetra's Delight](https://www.curseforge.com/minecraft/mc-mods/tetras-delight)
 - [ ] [Equipment compare](https://modrinth.com/mod/equipment-compare)
+- [ ] [Fantasy Armor](https://modrinth.com/mod/fantasy_armor)
 
 #### Trinkets
 - [x] [Curious API](https://www.curseforge.com/minecraft/mc-mods/curios)
@@ -73,6 +74,7 @@ As you cant do a lot of mining main source of jewelry and other precious stuff i
 - [x] [Vanilla Backport](https://modrinth.com/mod/vanillabackport)
 - [ ] [End Remastered](https://modrinth.com/mod/endrem)
 - [x] [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
+- [x] [Alex's Mobs Delight](https://modrinth.com/mod/more-delight)
 - [ ] [More Delight](https://modrinth.com/mod/more-delight)
 - [ ] [Rustic Delight](https://modrinth.com/mod/rustic-delight)
 - [ ] [Youkai's Homecoming](https://modrinth.com/mod/youkaishomecoming)

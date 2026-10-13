@@ -1,26 +1,6 @@
 {
   "clientToken": "73da897a-1d13-45be-89e0-f2a03a6a7592",
   "accounts": {
-    "9941fdcde58e11eca78bf02f74958c02": {
-      "username": "Forcenter",
-      "userID": "Forcenter",
-      "displayName": "Forcenter",
-      "accessToken": "19c6b22a-9b9b-4a31-84d7-4cd9618e2171",
-      "uuid": "9941fdcd-e58e-11ec-a78b-f02f74958c02",
-      "type": "tlauncher",
-      "skinType": "tlauncher",
-      "premiumAccount": false,
-      "profiles": [
-        {
-          "id": "9941fdcd-e58e-11ec-a78b-f02f74958c02",
-          "name": "Forcenter"
-        }
-      ],
-      "selectedProfile": {
-        "id": "9941fdcd-e58e-11ec-a78b-f02f74958c02",
-        "name": "Forcenter"
-      }
-    },
     "8d7ffd783942485b8a143ba09bd8f8d8": {
       "username": "Forcenter",
       "userID": "Forcenter",
