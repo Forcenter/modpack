@@ -96,7 +96,7 @@ welcomeMessage = true
 	#Perf: moderate at generation. More water = more channels to route and carve.
 	#World: CHANGES THE STREAM NETWORK. Takes effect only after the world is RELOADED (quit to title and reopen, or restart the server), and only in NEW chunks -- streams will not line up where new land meets old. Best chosen before starting a world.
 	#Range: 0.05 ~ 20.0
-	wetnessMultiplier = 1.0
+	wetnessMultiplier = 1.1
 	#
 	#DRY-BIOME STREAM FLOOR -- the minimum share of streams (and humidity-scaled lake fill) that still
 	#form in the very driest biomes (deserts, badlands, etc.). 0.0 = fully-dry biomes get NO streams at
@@ -114,7 +114,7 @@ welcomeMessage = true
 	#Perf: moderate at generation. Lower values mean many more channels to carve.
 	#World: CHANGES THE STREAM NETWORK. Takes effect only after the world is RELOADED (quit to title and reopen, or restart the server), and only in NEW chunks -- streams will not line up where new land meets old. Best chosen before starting a world.
 	#Range: 0.1 ~ 2.0
-	growDensity = 0.75
+	growDensity = 1.5
 	#
 	#SHORTEST STREAM -- the shortest stream, in BLOCKS, allowed to run from its own source
 	#into the water it drains to. Anything shorter is dropped, which clears the short nubs
@@ -126,7 +126,7 @@ welcomeMessage = true
 	#Perf: negligible (it only removes streams).
 	#World: CHANGES THE STREAM NETWORK. Takes effect only after the world is RELOADED (quit to title and reopen, or restart the server), and only in NEW chunks -- streams will not line up where new land meets old. Best chosen before starting a world.
 	#Range: 0 ~ 2000
-	minStreamLength = 50
+	minStreamLength = 80
 	#
 	#WHICH WATER the shortest-stream rule guards. The setting above clears short stubs; this says
 	#which shorelines it clears them from.
@@ -169,7 +169,7 @@ welcomeMessage = true
 	#Perf: negligible. Shape only.
 	#World: CHANGES THE STREAM NETWORK. Takes effect only after the world is RELOADED (quit to title and reopen, or restart the server), and only in NEW chunks -- streams will not line up where new land meets old. Best chosen before starting a world.
 	#Range: 0.0 ~ 50.0
-	widthScale = 1.0
+	widthScale = 1.5
 	#
 	#Headwater thinness -- the minimum half-width a stream starts at (it tapers to a point above this).
 	#  HIGHER = chunkier sources.  LOWER = finer, threadier headwaters.
@@ -185,7 +185,7 @@ welcomeMessage = true
 	#Perf: negligible. Shape only.
 	#World: CHANGES THE STREAM NETWORK. Takes effect only after the world is RELOADED (quit to title and reopen, or restart the server), and only in NEW chunks -- streams will not line up where new land meets old. Best chosen before starting a world.
 	#Range: 1.0 ~ 32.0
-	maxWidth = 16.0
+	maxWidth = 20.0
 	#
 	#How much streams WIND (steep reaches straighten out automatically).
 	#  HIGHER = lazier, more meandering.  LOWER = straighter, more direct.
@@ -211,7 +211,7 @@ welcomeMessage = true
 	#Perf: negligible. Shape only.
 	#World: CHANGES THE STREAM NETWORK. Takes effect only after the world is RELOADED (quit to title and reopen, or restart the server), and only in NEW chunks -- streams will not line up where new land meets old. Best chosen before starting a world.
 	#Range: 0.0 ~ 1.0
-	widthFollowsSlope = 0.5
+	widthFollowsSlope = 0.3
 	#
 	#Stream width follows the climate: for the same drainage, streams in WET biomes run wider and in DRY biomes
 	#narrower.
