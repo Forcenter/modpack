@@ -4,7 +4,7 @@
 	#Range: > 0
 	EatCooldown = 160
 	#A list of eternal foods which can be used to convert to the Eternal Cooked Seagull.
-	EternalFoodItems = ["alexsmobsdelight:eternal_cooked_seagull", "alexsmobsdelight:enchanted_eternal_cooked_seagull", "artifacts:eternal_steak", "artifacts:everlasting_beef"]
+	EternalFoodItems = ["alexsmobsdelight:eternal_cooked_seagull", "alexsmobsdelight:enchanted_eternal_cooked_seagull"]
 	#A list of foods which can not be absorbed by seagull to convert to the Enchanted Seagull.
 	EnchantedSeagullBlacklist = ["someassemblyrequired:sandwich"]
 
