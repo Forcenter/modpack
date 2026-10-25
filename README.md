@@ -21,6 +21,9 @@ As you cant do a lot of mining main source of jewelry and other precious stuff i
 - [x] [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)
 - [x] [Tectonic](https://www.curseforge.com/minecraft/mc-mods/tectonic)
 - [x] [Lithostitched](https://modrinth.com/mod/lithostitched)
+- [x] [Dynamic Trees](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
+- [x] [Dynamic Trees Terralith](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-terralith)
+- [x] [Dynamic Trees for Nature's Spirit](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-for-natures-spirit)
 
 ## Buildings
 - [ ] [Luki's Woodland Mansion](https://www.curseforge.com/minecraft/mc-mods/lukis-woodland-mansions)
@@ -36,6 +39,11 @@ As you cant do a lot of mining main source of jewelry and other precious stuff i
 - [ ] [Villager names](https://modrinth.com/mod/villager-names-serilum)
 
 ## Gameplay
+### Respawn mechanics
+- [x] [Reliable requiem](https://modrinth.com/mod/reliable-requiem)
+- [x] [Custom respawn area](https://www.curseforge.com/minecraft/mc-mods/custom-respawn-area)
+- [x] [Hardcore revival](https://modrinth.com/mod/hardcore-revival)
+
 ### Classes
 - [ ] [Origins](https://www.curseforge.com/minecraft/mc-mods/origins-classes-forge)
 
@@ -44,6 +52,7 @@ As you cant do a lot of mining main source of jewelry and other precious stuff i
 - [x] [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra)
 - [x] [Tetrawear](https://www.curseforge.com/minecraft/mc-mods/tetrawear)
 - [x] [Tetra Loopback?](https://www.curseforge.com/minecraft/mc-mods/tetra-loopback)
+- [x] [Tetra Extras](https://www.curseforge.com/minecraft/mc-mods/tetra-extras)
 - [ ] [Tetra's Delight](https://www.curseforge.com/minecraft/mc-mods/tetras-delight)
 - [ ] [Equipment compare](https://modrinth.com/mod/equipment-compare)
 - [ ] [Fantasy Armor](https://modrinth.com/mod/fantasy_armor)
@@ -67,7 +76,6 @@ As you cant do a lot of mining main source of jewelry and other precious stuff i
 ### Combat
 - [x] [Better combat](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)
 - [x] [Tetratic combat](https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded)
-- [ ] [Hardcore revival](https://modrinth.com/mod/hardcore-revival)
 
 ### Travelling challenges [TRVL]
 - [x] [Scout Recrafted](https://www.curseforge.com/minecraft/mc-mods/scout-recrafted)
@@ -104,3 +112,5 @@ As you cant do a lot of mining main source of jewelry and other precious stuff i
 - [x] [JEI](https://modrinth.com/mod/jei)
 - [x] [KubeJS](https://modrinth.com/mod/kubejs)
 - [x] [LootJS](https://modrinth.com/mod/lootjs)
+- [x] [Decursio Stages](https://www.curseforge.com/minecraft/mc-mods/decursio-stages)
+- [x] [Chunky](https://modrinth.com/plugin/chunky)

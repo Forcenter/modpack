@@ -1,0 +1,27 @@
+
+#Enable crafting, workbench schematics and creative entries for each weapon. Restart Minecraft after changes. Existing tools are preserved.
+[weapons]
+	rapier = true
+	sabre = true
+	falchion = true
+	hooked_blade = true
+	executioner_blade = true
+	morning_star = true
+	glaive = true
+	halberd = true
+	quarterstaff = true
+	mace = true
+	twinblade = true
+	hook_axe = true
+	boomerang = true
+	pickarang = true
+	hooked = true
+	hammer = true
+	cross = true
+	hunting = true
+	three_wing = true
+	four_wing = true
+	five_wing = true
+	six_wing = true
+	seven_wing = true
+

@@ -23,5 +23,6 @@
         "usernamecache.json": true,
         "worlds-1.2.json": true,
         "TempOptifineStore-1.0.json": true,
+        "modernfix": true,
     }
 }
