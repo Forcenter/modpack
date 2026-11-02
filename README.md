@@ -116,3 +116,49 @@ As you cant do a lot of mining main source of jewelry and other precious stuff i
 - [x] [LootJS](https://modrinth.com/mod/lootjs)
 - [x] [Decursio Stages](https://www.curseforge.com/minecraft/mc-mods/decursio-stages)
 - [x] [Chunky](https://modrinth.com/plugin/chunky)
+
+
+
+
+
+
+
+
+
+
+# Weapon tiers:
+## Introduction
+To measure all the power levels I will use the tetra items from corresponding materials - the goal is to make every stage have one power level + rarely getting materials from the other level to feel the progression (except for endgame)
+
+Note:
+Rapiers     as a baseline for fast weapons
+Falchion    as a baseline for midpaced weapons
+GreatSword  as a baseline for slow weapons
+
+In order to create battleaxes schematics required - should remove them and make able to create whenever
+
+## Iron - D
+Double rapiers      - 16 dps
+Falchion            - 15 dps
+Single Greatsword   - 13 dps
+
+Double Bloodwake    - D+
+Double Bramblethorn - D+
+Dormant Relic       - D
+Decaying relic      - D+
+Sword on a stick    - D-
+Icewhisper          - D+
+Magispear           - D
+Frostfall           - D
+
+## Diamond - C
+
+Wickpiercer         - ?
+
+## Netherite - B
+
+
+## Advanced Materials - A
+
+
+## Endgame - S

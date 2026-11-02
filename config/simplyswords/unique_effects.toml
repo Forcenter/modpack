@@ -296,7 +296,7 @@ headScale = 0.65
 headTurnSpeedDegreesPerTick = 12.0
 
 [magispear]
-cooldown = 120
+cooldown = 200
 damageScaling = 1.1
 spellScaling = 5.88
 radius = 4.0
@@ -305,9 +305,9 @@ magicDamageScaling = 0.16
 magicSpellScaling = 0.83
 throwDamageScaling = 0.8
 throwSpellScaling = 4.27
-targetingRange = 24.0
+targetingRange = 12.0
 rainWaveCount = 6
-rainSplashRadius = 2.0
+rainSplashRadius = 3.0
 inwardPushStrength = 0.35
 diveHeight = 6.0
 
@@ -541,7 +541,7 @@ cooldown = 700
 damageScaling = 0.37
 duration = 200
 heal = 0.5
-radius = 3
+radius = 5
 range = 22.0
 spellScaling = 2.52
 

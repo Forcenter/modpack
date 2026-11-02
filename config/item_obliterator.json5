@@ -1,0 +1,154 @@
+{
+  // -----------------------------------------------------------
+  //              Item Obliterator by ElocinDev
+  // -----------------------------------------------------------
+  //  
+  // How to add items?
+  //   - They are json strings, so you need to separate each
+  //     entry with a comma, except the last
+  //   - If you start an entry with !, it will be treated as a regular expression
+  //     Example: "!minecraft:.*_sword" to disable all swords
+  //  
+  // -----------------------------------------------------------
+  // Do not touch this
+  "configVersion": 2,
+
+
+
+
+
+  // -----------------------------------------------------------
+  // Items here will be unusable completely
+  //    Example: minecraft:diamond
+  "blacklisted_items": [
+    "tetra_loopback:modular_goggles",
+    "tetra:dynamic_handheld",
+    "tetra:seeping_bedrock",
+  
+  // iron default simplyswords
+    "simplyswords:iron_longsword",
+    "simplyswords:iron_twinblade",
+    "simplyswords:iron_rapier",
+    "simplyswords:iron_katana",
+    "simplyswords:iron_sai",
+    "simplyswords:iron_spear",
+    "simplyswords:iron_glaive",
+    "simplyswords:iron_warglaive",
+    "simplyswords:iron_cutlass",
+    "simplyswords:iron_claymore",
+    "simplyswords:iron_greathammer",
+    "simplyswords:iron_greataxe",
+    "simplyswords:iron_scythe",
+    "simplyswords:iron_halberd",
+
+  // gold default simplyswords
+    "simplyswords:gold_longsword",
+    "simplyswords:gold_twinblade",
+    "simplyswords:gold_rapier",
+    "simplyswords:gold_katana",
+    "simplyswords:gold_sai",
+    "simplyswords:gold_spear",
+    "simplyswords:gold_glaive",
+    "simplyswords:gold_warglaive",
+    "simplyswords:gold_cutlass",
+    "simplyswords:gold_claymore",
+    "simplyswords:gold_greathammer",
+    "simplyswords:gold_greataxe",
+    "simplyswords:gold_scythe",
+    "simplyswords:gold_halberd",
+
+  // diamond default simplyswords
+    "simplyswords:diamond_longsword",
+    "simplyswords:diamond_twinblade",
+    "simplyswords:diamond_rapier",
+    "simplyswords:diamond_katana",
+    "simplyswords:diamond_sai",
+    "simplyswords:diamond_spear",
+    "simplyswords:diamond_glaive",
+    "simplyswords:diamond_warglaive",
+    "simplyswords:diamond_cutlass",
+    "simplyswords:diamond_claymore",
+    "simplyswords:diamond_greathammer",
+    "simplyswords:diamond_greataxe",
+    "simplyswords:diamond_scythe",
+    "simplyswords:diamond_halberd",
+
+  // netherite default simplyswords
+    "simplyswords:netherite_longsword",
+    "simplyswords:netherite_twinblade",
+    "simplyswords:netherite_rapier",
+    "simplyswords:netherite_katana",
+    "simplyswords:netherite_sai",
+    "simplyswords:netherite_spear",
+    "simplyswords:netherite_glaive",
+    "simplyswords:netherite_warglaive",
+    "simplyswords:netherite_cutlass",
+    "simplyswords:netherite_claymore",
+    "simplyswords:netherite_greathammer",
+    "simplyswords:netherite_greataxe",
+    "simplyswords:netherite_scythe",
+    "simplyswords:netherite_halberd",
+
+  // runic default simplyswords
+    "simplyswords:runic_longsword",
+    "simplyswords:runic_twinblade",
+    "simplyswords:runic_rapier",
+    "simplyswords:runic_katana",
+    "simplyswords:runic_sai",
+    "simplyswords:runic_spear",
+    "simplyswords:runic_glaive",
+    "simplyswords:runic_warglaive",
+    "simplyswords:runic_cutlass",
+    "simplyswords:runic_claymore",
+    "simplyswords:runic_greathammer",
+    "simplyswords:runic_greataxe",
+    "simplyswords:runic_scythe",
+    "simplyswords:runic_halberd",
+
+  // other simplyswords
+    "simplyswords:runic_forge",
+
+  // crafting material from fantasy_armor
+    "fantasy_armor:moon_crystal",
+
+  //
+  ],
+
+
+
+
+  // -----------------------------------------------------------
+  // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
+  // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
+  // 	
+  // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
+  // 	
+  // 	 You can also use regular expressions by starting the value with !
+  "blacklisted_nbt": [],
+  // -----------------------------------------------------------
+  // Items here will not be able to be right-clicked (Interact)
+  //    Example: minecraft:apple
+  "only_disable_interactions": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will not be able to be used to attack
+  //    Example: minecraft:diamond_sword
+  "only_disable_attacks": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will get their recipes disabled
+  // Keep in mind this already is applied to blacklisted items
+  "only_disable_recipes": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // If true, the mod will use a hashset to handle the blacklisted items
+  // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
+  // If you just have a small amount of items blacklisted, keep this false
+  //  
+  // [!] Enabling this will disable all regular expressions
+  // [!] Does not apply to NBT, only item blacklist / interaction / attack
+  "use_hashmap_optimizations": true
+}
