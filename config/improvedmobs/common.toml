@@ -99,7 +99,7 @@
 	"Vanilla Max" = 250.0
 	#Should the scaling health mods difficulty system be used instead of this ones. (Requires scaling health mod)
 	#Allowed Values: OFF, ON, ADD
-	"Use Scaling Health Mod" = "OFF"
+	"Use Scaling Health Mod" = "ON"
 	#If true and playerEx is installed will use the level from playerEx as difficulty
 	#Allowed Values: OFF, ON, ADD
 	"Use Player EX Mod" = "OFF"

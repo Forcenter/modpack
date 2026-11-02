@@ -1,0 +1,42 @@
+{
+  "Version": 1.0,
+  "attributemap": {
+    "sword/blade": {
+      "sword/tetraex_rapier": {
+        "config": {
+          "attributes": {
+            "parent": "bettercombat:rapier"
+          }
+        }
+      },
+      "sword/tetraex_executioner_blade": {
+        "config": {
+          "attributes": {
+            "parent": "bettercombat:rapier"
+          }
+        }
+      },
+      "sword/tetraex_hooked_blade": {
+        "config": {
+          "attributes": {
+            "parent": "bettercombat:coral_blade"
+          }
+        }
+      },
+      "sword/tetraex_falchion": {
+        "config": {
+          "attributes": {
+            "parent": "bettercombat:katana"
+          }
+        }
+      },
+      "sword/tetraex_sabre": {
+        "config": {
+          "attributes": {
+            "parent": "bettercombat:cutlass"
+          }
+        }
+      }
+    }
+  }
+}

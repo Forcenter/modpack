@@ -11,8 +11,8 @@
     "carvers_enabled": true,
     "cheese_additive": 0.27,
     "cheese_enabled": true,
-    "depth_cutoff_size": 0.1,
-    "depth_cutoff_start": 0.1,
+    "depth_cutoff_size": 0.0,
+    "depth_cutoff_start": 0.0,
     "noodle_additive": -0.075,
     "noodle_enabled": true,
     "spaghetti_enabled": true
@@ -38,7 +38,7 @@
     "max_y": 512,
     "min_y": -64,
     "ultrasmooth": false,
-    "vertical_scale": 1.5
+    "vertical_scale": 1.75
   },
   "islands": {
     "enabled": true,

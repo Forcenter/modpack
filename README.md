@@ -30,13 +30,13 @@ As you cant do a lot of mining main source of jewelry and other precious stuff i
 - [ ] [Luki's Strongholds](https://www.curseforge.com/minecraft/mc-mods/lukis-strongholds)
 - [ ] [Minimal Structures (Mingen)](https://modrinth.com/datapack/mingen)
 - [ ] [Unnamed Sea](https://www.curseforge.com/minecraft/mc-mods/unnamed-sea)
-- [ ] [Tidal towns](https://modrinth.com/datapack/tidal-towns)
 - [ ] [Abridged](https://modrinth.com/mod/abridged)
 
 ### Villages
 - [ ] [Luki's Grand Capitals](https://www.curseforge.com/minecraft/mc-mods/lukis-grand-capitals)
 - [ ] [You Thief!](https://www.curseforge.com/minecraft/mc-mods/you-thief-remastered-edition)
 - [ ] [Villager names](https://modrinth.com/mod/villager-names-serilum)
+- [x] [Tidal towns](https://modrinth.com/datapack/tidal-towns)
 
 ## Gameplay
 ### Respawn mechanics
@@ -50,12 +50,13 @@ As you cant do a lot of mining main source of jewelry and other precious stuff i
 ### Gear
 #### Weapons
 - [x] [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra)
-- [x] [Tetrawear](https://www.curseforge.com/minecraft/mc-mods/tetrawear)
 - [x] [Tetra Loopback?](https://www.curseforge.com/minecraft/mc-mods/tetra-loopback)
 - [x] [Tetra Extras](https://www.curseforge.com/minecraft/mc-mods/tetra-extras)
 - [ ] [Tetra's Delight](https://www.curseforge.com/minecraft/mc-mods/tetras-delight)
 - [ ] [Equipment compare](https://modrinth.com/mod/equipment-compare)
-- [ ] [Fantasy Armor](https://modrinth.com/mod/fantasy_armor)
+- [x] [Fantasy Armor](https://modrinth.com/mod/fantasy_armor)
+- [x] [SimplySwords]()
+- [x] [SimplyTooltips]()
 
 #### Trinkets
 - [x] [Curious API](https://www.curseforge.com/minecraft/mc-mods/curios)
@@ -76,6 +77,7 @@ As you cant do a lot of mining main source of jewelry and other precious stuff i
 ### Combat
 - [x] [Better combat](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)
 - [x] [Tetratic combat](https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded)
+- [x] [VisceralCombat](https://www.curseforge.com/minecraft/mc-mods/visceral-combat)
 
 ### Travelling challenges [TRVL]
 - [x] [Scout Recrafted](https://www.curseforge.com/minecraft/mc-mods/scout-recrafted)
@@ -104,7 +106,7 @@ As you cant do a lot of mining main source of jewelry and other precious stuff i
 - [x] [Coolrain](https://www.curseforge.com/minecraft/mc-mods/cool-rain)
 - [x] [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
 
-## Technical mods
+## Technical mods [TECH]
 - [x] [Embeddium](https://modrinth.com/mod/embeddium)
 - [x] [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 - [x] [Rubidium](https://modrinth.com/mod/rubidium-extra)
